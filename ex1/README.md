@@ -1,3 +1,4 @@
+#EX1
 Initially, I implemented the node info department Then I put it into the weighed graph class.
 
 In the second step, I implemented the weighed graph, All the features in the graph, connecting nodes, deleting nodes, deleting ribs that connect two nodes, to store all the nodes in the graph I created a hash map that stores all the nodes and another hash map to store all the ribs that connect all the nodes, This is how we implement the weighed graph.
